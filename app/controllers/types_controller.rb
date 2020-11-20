@@ -5,7 +5,7 @@ class TypesController < ApplicationController
   # GET /types.json
   def index
     @types = Type.all
-    @types_distribution = Bookmark.joins(:type).group("types.name").count
+    @graphic = Bookmark.joins(:type).group("types.name").count
   end
 
   # GET /types/1

@@ -31,10 +31,10 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 gem 'faker'
-gem 'bootstrap'
 gem 'jquery-rails'
-gem 'chartkick'
+gem 'bootstrap'
 gem 'groupdate'
+gem 'chartkick'
 gem 'highcharts'
 
 # Use Capistrano for deployment

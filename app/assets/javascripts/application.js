@@ -16,6 +16,7 @@
 //= require bootstrap
 //= require data-confirm-modal
 //= require chartkick
+//= require Chart.bundle
 //= require activestorage
 //= require turbolinks
 //= require_tree .
